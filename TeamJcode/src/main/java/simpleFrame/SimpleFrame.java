@@ -28,8 +28,8 @@ public class SimpleFrame extends Frame {
 		add(searchBut);
 		searchBut.setLabel("click here to search");
 		searchBut.getLabel();
-		Button b2 = new Button("null text");
-		add(b2);//create
+		//Button b2 = new Button("null text");
+		//add(b2);//create
 		
 
 		
